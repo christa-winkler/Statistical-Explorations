@@ -4,4 +4,5 @@ This repository will be used to store notebooks for reference to perform statist
 
 ---
 
-
+Current notebooks:
+- Descriptive stats -  covers exploration and visualization of basic descriptive statistics in a Jupyter notebook.
